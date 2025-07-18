@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Summary</title>
+
+</head>
+
+<body>
+
+    <h1>Summary for css library</h1>
+
+    <p>CSS libraries are pre-written collections of CSS code and styles you can use to quickly and easily style your web projects. They are reusable components created by developers to help solve common issues.
+
+It typically includes styles for common elements such as buttons, forms, and navigation bars. They may also have styles for more specialized elements, such as graphs, charts, animations, etc.</p>
+
+    <h2>1.Bootstrap</h2>
+    <P>Bootstrap is a free and open-source css framework directed at responsive,mobile-first front-end web development.
+        It contains HTML, CSS and (optionally) JavaScript-based design templates for typography, forms, buttons,navigation,and other interface components.</P>
+
+    <h2>2.Tailwind CSS</h2>
+    <p>Tailwind is a "utility-first CSS framework" that provides classes enabling users to create custom user interfaces directly within the user's markup.
+        Implementing inline styling is helpful for quickly creating an eye-catching UI without coding any CSS.</p>
+
+    <h2>3.Foundation</h2>
+    <p>The foundation provides a grid, HTML, SASS, and CSS UI elements.templates,and code that covers navigation,buttons,typography,forms,etc.
+        It also comprises optional functionalities offered by Javascript extensions.
+    </p>
+
+    <h2>4.Bulma</h2>
+    <p>Bulma is an open-source,reponsive CSS framework based on flexbox.
+        It has an impressive range of built-in features that facilitate faster turnaround and minimal CSS coding by hand.
+    </p>
+
+    <h2>5.SKeleton</h2>
+    <p>Skeleton doesn't even call itself a css framework but a "dead simple, responsive boilerplate."
+        Its minimalism is beyond question: it has only 400 lines of source code!
+    </p>
+
+    <h2>6.UIkit</h2>
+    <p>UIkit is a lightweight and modular front-end framework designed to enable rapid and seamless web interface development.
+        It is built with a clear focus on simplicity and customizability, providing a comprehensive collection of easy-to-use components. 
+    </p>
+    
+    <h2>7.Milligram</h2>
+    <p>Milligram is a minimalist CSS framework designed for better performance and higher productivity with fewer properties to reset.
+        It provides a clean starting point for those who want to design with a lightweight framework that doesn't impose many design choices.
+    </p>
+
+    </body>
+    </html>
